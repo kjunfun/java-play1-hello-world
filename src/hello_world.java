@@ -4,3 +4,5 @@ public class hello_world {
 		System.out.println("hello java");
 	}
 }
+
+// 반복학습이 중요하다.
